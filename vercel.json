@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://sspool.herokuapp.com/vmess/sub"}
+      {"src": "/(.*)","dest": "https://www.google.com/$1"}
   ]
 }
